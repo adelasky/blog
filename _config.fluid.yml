@@ -244,7 +244,7 @@ index:
   # 副标题
   slogan:
     enable: true
-    text: "My Pure Life"
+    text: "纯粹"
     api:
       enable: false
       url: ""
