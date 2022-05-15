@@ -1,9 +1,9 @@
 #---------------------------
 # 全局
 #---------------------------
-favicon: https://cdn.zengjunyin.com/icon/favicon-dog.svg
+favicon: /image/favicon-dog.svg
 
-apple_touch_icon: https://cdn.zengjunyin.com/icon/favicon-dog.svg
+apple_touch_icon: /image/favicon-dog.svg
 
 tab_title_separator: " - "
 
@@ -151,7 +151,7 @@ web_analytics:
 # 懒加载
 lazyload:
   enable: true
-  loading_img: https://cdn.zengjunyin.com/blogstatic/images/loading.gif
+  loading_img: /image/loading.gif
   onlypost: true
   offset_factor: 2
 
@@ -214,8 +214,8 @@ open_graph:
 #---------------------------
 footer:
   content: '
-    <a target="_blank" href="https://hexo.io" title="框架 Hexo"><img src="https://cdn.zengjunyin.com/blogstatic/images/Frame-Hexo-blue.svg"></a>
-    <a target="_blank" href="https://github.com/fluid-dev/hexo-theme-fluid" title="主题 Fluid"><img src="https://cdn.zengjunyin.com/blogstatic/images/Theme-Fluid-lightgrey.svg"></a>
+    <a target="_blank" href="https://hexo.io" title="框架 Hexo"><img src="/image/Frame-Hexo-blue.svg"></a>
+    <a target="_blank" href="https://github.com/fluid-dev/hexo-theme-fluid" title="主题 Fluid"><img src="/image/Theme-Fluid-lightgrey.svg"></a>
     <br/>
     <p></p> 
   '
@@ -238,7 +238,7 @@ footer:
 # 首页
 #---------------------------
 index:
-  banner_img: https://cdn.zengjunyin.com/blogstatic/images/background.jpg
+  banner_img: /image/background.jpg
   banner_img_height: 100
   banner_mask_alpha: 0.3
   # 副标题
@@ -270,7 +270,7 @@ index:
 # 文章页
 #---------------------------
 post:
-  banner_img: https://cdn.zengjunyin.com/blogstatic/images/background.jpg
+  banner_img: /image/background.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
   default_index_img:
@@ -445,7 +445,7 @@ cusdis:
 # 归档页
 #---------------------------
 archive:
-  banner_img: https://cdn.zengjunyin.com/blogstatic/images/background.jpg
+  banner_img: /image/background.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
@@ -454,7 +454,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: https://cdn.zengjunyin.com/blogstatic/images/background.jpg
+  banner_img: /image/background.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
   # 排序字段
@@ -472,7 +472,7 @@ category:
 #---------------------------
 tag:
   enable: false
-  banner_img: https://cdn.zengjunyin.com/blogstatic/images/background.jpg
+  banner_img: /image/background.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
   tagcloud:
@@ -487,7 +487,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: https://cdn.zengjunyin.com/blogstatic/images/background.jpg
+  banner_img: /image/background.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
   avatar: /image/avatar.jpg
@@ -501,7 +501,7 @@ about:
 # 自定义页
 #---------------------------
 page:
-  banner_img: https://cdn.zengjunyin.com/blogstatic/images/background.jpg
+  banner_img: /image/background.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
@@ -510,7 +510,7 @@ page:
 #---------------------------
 page404:
   enable: true
-  banner_img: https://cdn.zengjunyin.com/blogstatic/images/background.jpg
+  banner_img: /image/background.jpg
   banner_img_height: 100
   banner_mask_alpha: 0.3
   redirect_delay: 5000
@@ -520,7 +520,7 @@ page404:
 #---------------------------
 links:
   enable: true
-  banner_img: https://cdn.zengjunyin.com/blogstatic/images/background.jpg
+  banner_img: /image/background.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
   items:
@@ -536,25 +536,7 @@ links:
       link: "https://vian.top",
       avatar: "https://vian.top/avatar.ico"
     }
-    - {
-      title: "Fluid Blog",
-      intro: "主题博客",
-      link: "https://hexo.fluid-dev.com/",
-      avatar: "https://cdn.zengjunyin.com/blogstatic/images/fluid_link.png"
-    }
-    - {
-      title: "Fluid Docs",
-      intro: "主题使用指南",
-      link: "https://hexo.fluid-dev.com/docs/",
-      avatar: "https://cdn.zengjunyin.com/blogstatic/images/fluid_link.png"
-    }
-    - {
-      title: "Fluid Repo",
-      intro: "主题 GitHub 仓库",
-      link: "https://github.com/fluid-dev/hexo-theme-fluid",
-      avatar: "https://cdn.zengjunyin.com/blogstatic/images/fluid_link.png"
-    }
-  onerror_avatar: https://cdn.zengjunyin.com/blogstatic/images/linkavatar.png
+  onerror_avatar: /image/linkavatar.png
   custom:
     enable: false
     content: ''
