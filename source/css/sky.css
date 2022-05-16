@@ -27,7 +27,7 @@ button[data-v-b9fd4424] {
 
 /* 面板阴影 */
 #board {
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),0 4px 6px -2px rgba(0, 0, 0, 0.05) !important;
+    box-shadow: none !important;
 }
 
 /* 首页悬浮动画效果 */
@@ -56,4 +56,19 @@ button[data-v-b9fd4424] {
     .index-card:hover .index-info {
         transform: none !important;
     }
+}
+
+body {
+    background-attachment: fixed !important;
+    transition: all 0.5s ease-in;
+}
+
+/* 滚动条背景 */
+::-webkit-scrollbar {
+    background-color: var(--body-bg-color) !important;
+}
+
+/* 蒙版阴影 */
+.banner .mask {
+    background-color: transparent !important;
 }
