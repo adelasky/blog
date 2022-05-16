@@ -244,7 +244,7 @@ index:
   # 副标题
   slogan:
     enable: true
-    text: "只是一种漠不关心的存在。"
+    text: "只是一种漠不关心的存在"
     api:
       enable: false
       url: ""
