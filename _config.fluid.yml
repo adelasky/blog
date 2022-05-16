@@ -536,6 +536,12 @@ links:
       link: "https://vian.top",
       avatar: "https://vian.top/avatar.ico"
     }
+    - {
+      title: "窥见天光",
+      intro: "梦随风万里...",
+      link: "https://blog.lovetianyu.com",
+      avatar: "https://blog.lovetianyu.com/upload/2022/04/6b8e3fa1b9bfb5f22ea8869d0284bcba.jpg"
+    }
   onerror_avatar: /image/linkavatar.png
   custom:
     enable: false
