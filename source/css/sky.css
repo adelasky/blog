@@ -58,17 +58,41 @@ button[data-v-b9fd4424] {
     }
 }
 
-body {
-    background-attachment: fixed !important;
-    transition: all 0.5s ease-in;
+#web-bg-light {
+    position: fixed;
+    z-index: -999;
+    width: 100%;
+    height: 100%;
+    background-attachment: local;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-repeat: repeat;
+    background-image: url("https://blog.zengjunyin.com/image/background_light.jpg");
 }
 
-/* 滚动条背景 */
-::-webkit-scrollbar {
-    background-color: var(--body-bg-color) !important;
+#web-bg-dark {
+    position: fixed;
+    z-index: -888;
+    width: 100%;
+    height: 100%;
+    background-attachment: local;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-repeat: repeat;
+    background-image: url("https://blog.zengjunyin.com/image/background_dark.jpg");
+    transition: opacity 0.3s ease-in;
+    -moz-transition: opacity 0.3s ease-in;
+    -webkit-transition: opacity 0.3s ease-in;
 }
 
-/* 蒙版阴影 */
-.banner .mask {
-    background-color: transparent !important;
+.bg-dark {
+    opacity: 1;
+}
+
+.bg-light {
+    opacity: 0;
 }
