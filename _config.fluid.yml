@@ -21,8 +21,8 @@ code:
     lib: "highlightjs"
     highlightjs:
       # https://highlightjs.org/static/demo/
-      style: "Arduino Light"
-      style_dark: "Androidstudio"
+      style: "Purebasic"
+      style_dark: "Obsidian"
     prismjs:
       # https://prismjs.com/
       style: "default"
