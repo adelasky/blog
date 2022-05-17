@@ -238,7 +238,7 @@ footer:
 # 首页
 #---------------------------
 index:
-  banner_img: 
+  banner_img: image/background_light.jpg
   banner_img_height: 100
   banner_mask_alpha: 0.3
   # 副标题
@@ -270,7 +270,7 @@ index:
 # 文章页
 #---------------------------
 post:
-  banner_img: 
+  banner_img: image/background_light.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
   default_index_img:
@@ -445,7 +445,7 @@ cusdis:
 # 归档页
 #---------------------------
 archive:
-  banner_img: 
+  banner_img: image/background_light.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
@@ -454,7 +454,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: 
+  banner_img: image/background_light.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
   # 排序字段
@@ -472,7 +472,7 @@ category:
 #---------------------------
 tag:
   enable: false
-  banner_img: 
+  banner_img: image/background_light.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
   tagcloud:
@@ -487,7 +487,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: 
+  banner_img: image/background_light.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
   avatar: /image/avatar.jpg
@@ -501,7 +501,7 @@ about:
 # 自定义页
 #---------------------------
 page:
-  banner_img: 
+  banner_img: image/background_light.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
@@ -510,7 +510,7 @@ page:
 #---------------------------
 page404:
   enable: true
-  banner_img: 
+  banner_img: image/background_light.jpg
   banner_img_height: 100
   banner_mask_alpha: 0.3
   redirect_delay: 5000
@@ -520,7 +520,7 @@ page404:
 #---------------------------
 links:
   enable: true
-  banner_img: 
+  banner_img: image/background_light.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
   items:
