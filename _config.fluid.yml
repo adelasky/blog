@@ -61,7 +61,7 @@ fun_features:
 dark_mode:
   enable: true
   # Options: auto | light | dark
-  default: light
+  default: dark
 
 # 颜色
 color:
