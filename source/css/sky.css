@@ -58,6 +58,14 @@ button[data-v-b9fd4424] {
     }
 }
 
+#banner {
+    background-image: none !important;
+}
+
+#banner .mask {
+    background-color: transparent !important;
+}
+
 #web-bg-light {
     position: fixed;
     z-index: -999;
