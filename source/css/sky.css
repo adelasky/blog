@@ -77,7 +77,7 @@ button[data-v-b9fd4424] {
     -moz-background-size: cover;
     background-size: cover;
     background-repeat: repeat;
-    background-image: url("https://blog.zengjunyin.com/image/background_light.jpg");
+    background-image: url("https://cdn.zengjunyin.com/background_light.jpg");
 }
 
 #web-bg-dark {
@@ -91,7 +91,7 @@ button[data-v-b9fd4424] {
     -moz-background-size: cover;
     background-size: cover;
     background-repeat: repeat;
-    background-image: url("https://blog.zengjunyin.com/image/background_dark.jpg");
+    background-image: url("https://cdn.zengjunyin.com/background_dark.jpg");
     transition: opacity 0.3s ease-in;
     -moz-transition: opacity 0.3s ease-in;
     -webkit-transition: opacity 0.3s ease-in;
