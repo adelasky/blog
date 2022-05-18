@@ -76,7 +76,7 @@ button[data-v-b9fd4424] {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-image: url("https://cdn.zengjunyin.com/background_light.jpg");
 }
 
@@ -90,7 +90,7 @@ button[data-v-b9fd4424] {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-image: url("https://cdn.zengjunyin.com/background_dark.jpg");
     transition: opacity 0.3s ease-in;
     -moz-transition: opacity 0.3s ease-in;
