@@ -1,1 +1,1 @@
-hexo.extend.injector.register("body_begin", `<div id="web-bg-light"></div><div id="web-bg-dark"></div>`);
+hexo.extend.injector.register("body_begin", `<div id="web-bg"></div>`);

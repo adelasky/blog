@@ -11,7 +11,7 @@
   var defaultColorSchemaAttributeName = 'data-default-color-scheme';
   var colorToggleButtonSelector = '#color-toggle-btn';
   var colorToggleIconSelector = '#color-toggle-icon';
-  var webBackground = '#web-bg-dark'; // 背景
+  var webBackground = '#web-bg'; // 背景
 
   function setLS(k, v) {
     try {
