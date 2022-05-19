@@ -132,8 +132,8 @@ custom_html: ''
 
 # 网页访问统计
 web_analytics:
-  enable: false
-  baidu: # 4c458d1750ea58f8c9d61bc90c4d82dd
+  enable: true
+  baidu: 4c458d1750ea58f8c9d61bc90c4d82dd
   google:
   gtag:
   tencent:
