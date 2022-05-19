@@ -4,10 +4,6 @@ home:
   menu: '首页'
   title: '首页'
 
-bber:
-  menu: '说说'
-  title: '说说'
-
 archive:
   menu: '归档'
   title: '归档'
