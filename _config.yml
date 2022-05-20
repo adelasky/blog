@@ -84,9 +84,13 @@ theme: fluid
 
 # Deployment
 deploy:
-- type:
-  repository:
-  branch:
+- type: baidu_url_submitter
+
+baidu_url_submit:
+  count: 200
+  host: blog.zengjunyin.com
+  token: 
+  path: baidu_urls.txt
 
 # mmedia
 mmedia:
