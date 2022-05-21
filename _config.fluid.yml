@@ -155,6 +155,12 @@ links:
       link: "https://blog.lovetianyu.com",
       avatar: "https://blog.lovetianyu.com/upload/2022/04/6b8e3fa1b9bfb5f22ea8869d0284bcba.jpg"
     }
+    - {
+      title: "阿锋的小宇宙",
+      intro: "沧海一粟，微亮渺小一只虫。",
+      link: "https://feng.pub",
+      avatar: "https://feng.pub/avatar/i_200_200.jpg"
+    }
   onerror_avatar: /image/linkavatar.png
 
 static_prefix:
