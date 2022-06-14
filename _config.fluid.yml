@@ -160,6 +160,9 @@ links:
       avatar: "https://feng.pub/avatar/i_200_200.jpg"
     }
   onerror_avatar: /image/linkavatar.png
+  comments:
+    enable: ture
+    type: twikoo
 
 static_prefix:
   twikoo: https://cdn.staticfile.org/twikoo/1.5.10/
