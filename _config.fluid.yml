@@ -71,7 +71,7 @@ index:
   banner_img: image/background_light.jpg
   slogan:
     enable: true
-    text: "只是一种漠不关心的存在"
+    text: "Life is like a boat."
   auto_excerpt:
     enable: false
   post_meta:
@@ -121,7 +121,7 @@ about:
   banner_img: image/background_light.jpg
   avatar: /image/avatar.jpg
   name: "归梦"
-  intro: "虽无言,却风雪而立。虽无言,却花满枝头。虽无言,却兀自凋零。"
+  intro: "Life is like a boat."
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com/adelasky", tip: "GitHub" }
     - { class: "iconfont icon-mail_fill", link: "mailto:zengjunyin@foxmail.com", tip: "Mail" }
