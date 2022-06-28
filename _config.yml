@@ -84,13 +84,11 @@ theme: fluid
 
 # Deployment
 deploy:
-- type: baidu_url_submitter
-
-baidu_url_submit:
-  count: 200
-  host: blog.zengjunyin.com
-  token: 
-  path: baidu_urls.txt
+  type: cos
+  secretId: AKID95lAI9j25rMaXDckbFdjY7AesoTrzqQj
+  secretKey: oLcbJkvoQlob7MJ0QZQ1LOPQ9cnhKktx
+  bucket: blog-1301799733
+  region: ap-guangzhou
 
 # mmedia
 mmedia:
