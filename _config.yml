@@ -85,8 +85,8 @@ theme: fluid
 # Deployment
 deploy:
   type: cos
-  secretId: AKID95lAI9j25rMaXDckbFdjY7AesoTrzqQj
-  secretKey: oLcbJkvoQlob7MJ0QZQ1LOPQ9cnhKktx
+  secretId: 
+  secretKey: 
   bucket: blog-1301799733
   region: ap-guangzhou
 
